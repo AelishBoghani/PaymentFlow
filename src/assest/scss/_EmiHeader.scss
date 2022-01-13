@@ -1,0 +1,16 @@
+.emi__header{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    color: rgb(94, 91, 91);
+    font-weight: 500;
+    font-size: 17px;
+
+    border: 2px solid gray;
+
+    .bank__details{
+        font-weight: 600;
+        color: black;
+        align-self: center;
+    }
+}
