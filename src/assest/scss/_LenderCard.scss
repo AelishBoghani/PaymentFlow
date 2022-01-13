@@ -1,0 +1,22 @@
+.lender__card{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    border: 2px red solid;
+    margin-top: 20px;
+   
+    
+    span{
+        color: green;
+    }
+
+    img{
+        margin-left: 10px;
+    }
+
+    div{
+        border: 2px solid red;
+        align-self: center;
+    }
+
+}
